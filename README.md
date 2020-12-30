@@ -282,3 +282,5 @@ sudo firewall-cmd --reload
 ```
 
 6. Then restarted the **mysql server** and connect remotely.
+
+
